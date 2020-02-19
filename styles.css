@@ -1,0 +1,66 @@
+body{
+	font-family: 'Kulim Park', sans-serif;
+	background-image: linear-gradient(to bottom left,#034b5a,#1a7b6a);
+	color: white;
+	height: 100%;
+}
+#row1,#row2{
+	font-size: 25px;
+	display:inline-block;
+	border-radius: 20px;
+	border-color: #cdcec8;
+	border-style: solid;
+}
+.navbar{
+	background: #cdcec8;
+	font-size: 20px;
+}
+.border{
+	border-color: #cdcec8;
+}
+.page-footer{
+	background: white;
+}
+#contact_us{
+	background-color: teal;
+	color: white;
+}
+#journey_title,#whatsnext_title{
+	display: inline-block;
+	border-style: solid;
+	font-size: 30px;
+	border-radius: 15px;
+	border-color: #cdcec8;
+}
+#whatsnext_row{
+	font-size: 25px;
+	border-radius: 20px;
+	border-color: #cdcec8;
+	border-style: solid;	
+}
+.nav-item:hover{
+	background-color: #0e6262;
+	color: #ffffff !important;
+	border-style: transparent;
+	border-radius: 12px;
+}
+
+#journey_start{
+	font-size: 25px;
+}
+
+#ach-row{
+	border-radius: 20px;
+	border-color: #cdcec8;
+	border-style: solid;
+}
+.card-footer{
+	background-color: #cdcec8;
+}
+#team_row1{
+	font-size: 25px;
+	display:inline-block;
+}
+.caption{
+	font-size: 30px;
+}
